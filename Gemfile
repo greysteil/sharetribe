@@ -106,7 +106,7 @@ group :staging, :production do
 end
 
 group :development, :test do
-  gem 'rubocop', '~> 0.49.1', require: false
+  gem 'rubocop', '~> 0.59.2', require: false
   gem 'factory_girl_rails', '~> 4.8.0'
 end
 

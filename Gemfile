@@ -5,7 +5,7 @@ ruby '2.3.4'
 gem 'rails', '5.1.1'
 
 gem 'coffee-rails', '~> 4.2.2'
-gem 'uglifier', '~> 3.2.0'
+gem 'uglifier', '~> 4.1.19'
 
 gem 'sass-rails', '~> 5.0.6'
 gem 'compass-rails', '~> 3.0.2'

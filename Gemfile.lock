@@ -547,7 +547,7 @@ GEM
       tzinfo
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
-    uglifier (3.2.0)
+    uglifier (4.1.19)
       execjs (>= 0.3.0, < 3)
     unf (0.1.4)
       unf_ext
@@ -675,7 +675,7 @@ DEPENDENCIES
   truncate_html (~> 0.9.3)
   ts-delayed-delta!
   twitter_cldr
-  uglifier (~> 3.2.0)
+  uglifier (~> 4.1.19)
   uuidtools (~> 2.1.5)
   web-console (~> 3.5.1)
   web_translate_it (~> 2.4.1)
